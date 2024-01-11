@@ -6,5 +6,5 @@ La base de datos utilizada [mental_health](https://github.com/LautaroOchotorena/
 Como primer acercamiento se creó el archivo [Mental Health in the Tech Industry.docx](https://github.com/LautaroOchotorena/Mental-Health-in-the-Tech-Industry-en-curso-/blob/main/Mental%20Health%20in%20the%20Tech%20Industry.docx), es un documento informal que **enuncia problemas/cosas a resolver**.  <br>
 La **realización** de los mismos está hecha en la notebook [Mental_Health_in_the_Tech_Industry.ipynb](https://github.com/LautaroOchotorena/Mental-Health-in-the-Tech-Industry-en-curso-/blob/main/Mental_Health_in_the_Tech_Industry.ipynb).
 
-**Principales librerías**:<br>
+**Librerías principales**:<br>
 Sqlite3, Numpy, Pandas, Matplotlib y Seaborn.
